@@ -11,6 +11,14 @@
   </url>
   
   <url>
+    <loc>http://example.org/elements/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/tags/</loc>
   </url>
   
