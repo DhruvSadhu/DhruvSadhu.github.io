@@ -8,10 +8,6 @@
   </url>
   
   <url>
-    <loc>https://dhruvsadhu.github.io/posts/</loc>
-  </url>
-  
-  <url>
     <loc>https://dhruvsadhu.github.io/categories/</loc>
   </url>
   
@@ -20,11 +16,19 @@
   </url>
   
   <url>
+    <loc>https://dhruvsadhu.github.io/posts/</loc>
+  </url>
+  
+  <url>
     <loc>https://dhruvsadhu.github.io/elements/</loc>
   </url>
   
   <url>
     <loc>https://dhruvsadhu.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dhruvsadhu.github.io/fffffff/</loc>
   </url>
   
 </urlset>
